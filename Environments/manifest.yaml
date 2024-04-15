@@ -1,0 +1,6 @@
+name: Sandbox
+version: 1.0.0
+summary: Sandbox environment
+description: Deploy empty environment
+runner: ARM
+templatePath: main.json
